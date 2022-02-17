@@ -1,3 +1,10 @@
+<a href="https://github.com/Trail-Blaze">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Trail-Blaze" alt="Profile Views Count">
+  </p>
+</a>
+
+
 # Fortnite Args/Fltokens and Offsets
 
 DM Me if you got any other seasons fltokens

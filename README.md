@@ -1,5 +1,10 @@
 # Fortnite Args/Fltokens/caldera and Offsets
 
+<a href="https://github.com/Trail-Blaze">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Trail-Blaze" alt="Profile Views Count">
+  </p>
+</a>
 <!--I may update the offsets each update now instead the args-->
 <br>
 The grabber still works so yeah (version 1 or 2 will work fine)
